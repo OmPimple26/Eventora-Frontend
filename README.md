@@ -6,9 +6,8 @@ Eventora is a modern and responsive **event booking platform frontend** built wi
 
 ## 🌐 Live Demo
 
-🎨 **Frontend:** `https://eventora-frontend-alpha.vercel.app/`
-
-⚙️ **Backend API:** `https://eventora-backend-70xp.onrender.com`
+- 🎨 Frontend: https://eventora-frontend-alpha.vercel.app/
+- ⚙️ Backend API: https://eventora-backend-70xp.onrender.com/
 
 ---
 
